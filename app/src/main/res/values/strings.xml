@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Task App</string>
+    <string name="title_activity_add_task">AddTaskActivity</string>
+    <string name="urgency1">Penting, Mendesak</string>
+    <string name="urgency2">Penting, Tidak Mendesak</string>
+    <string name="urgency3">Tidak Penting, Mendesak</string>
+    <string name="urgency4">Tidak Penting, Tidak Mendesak</string>
+    <string name="no_title">Untitled</string>
+    <string name="no_description">No Description</string>
 </resources>
